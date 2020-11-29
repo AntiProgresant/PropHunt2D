@@ -1,2 +1,2 @@
 # PropHunt2D
-Indepndant game project
+Independant game project
